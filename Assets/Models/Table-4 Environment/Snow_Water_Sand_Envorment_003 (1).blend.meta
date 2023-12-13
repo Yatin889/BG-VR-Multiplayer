@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: 9aa7219b2ac5c534e98239148a51210b
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: e98fae4a3ebaaab48a5ae6e851a9e67c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BlueAccent
+    second: {fileID: 2100000, guid: ed072f22478331042b3d8a79dd147ce2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DownSpotlight
+    second: {fileID: 2100000, guid: ff09f4650b779e745910dbcbb5a8ffbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glow
+    second: {fileID: 2100000, guid: 0336df5280d382b4ab6423a0c4e925ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Label_Sand
+    second: {fileID: 2100000, guid: 2799019c2fa9b72498a1fbcc5e1e7c4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Label_Snow
+    second: {fileID: 2100000, guid: ab87183e1fd7e734b8f9718b6df3e564, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Label_Water
+    second: {fileID: 2100000, guid: b4bc54bb75e54c04880e25cdb5e42b6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LampLight
+    second: {fileID: 2100000, guid: 3c701ef023fbbb44d8e3e935a0da9f20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MainDisplay
+    second: {fileID: 2100000, guid: ec812556e6bb47443b84cd2350d9f932, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 4d76b748357272a44841f44f1795070c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: c3d3de4914ea9594691b8d3c96aacbdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: d200836b7a8d4ba46977b06afda56bb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010
+    second: {fileID: 2100000, guid: e5ce24f42d1ccd0488a6569c88d04fbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Moon_Surface
+    second: {fileID: 2100000, guid: 90fd66c966a2db1429d4e66f42516d91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ocean Water
+    second: {fileID: 2100000, guid: 09b117fc58e0d094fbe5202439504cc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic Black
+    second: {fileID: 2100000, guid: d856d61ff9bde024cb21614063b12ab4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic Black.001
+    second: {fileID: 2100000, guid: 9dc150e8185d9f041832cf3347a6ec00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sand
+    second: {fileID: 2100000, guid: 2e9fc94a337d04440959b0abe85a977b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Screen_Sand.001
+    second: {fileID: 2100000, guid: 86be59c4eeb60644287cec5de78b45d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Screen_Snow.001
+    second: {fileID: 2100000, guid: 7496d36bc30e5d041b5e6762764b15a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Screen_Water.001
+    second: {fileID: 2100000, guid: e04be8fa187d2b74c9977957699e94de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow
+    second: {fileID: 2100000, guid: 5315ec19227048241ad0e2f7a146c713, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Terrain
+    second: {fileID: 2100000, guid: 53440d18cbcfb1945b37c13df222b970, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spruce_mat
+    second: {fileID: 2100000, guid: d840067132a26af4d942bc38ba8ec592, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spruce_mat.001
+    second: {fileID: 2100000, guid: 57f498cb83998934295e71e0383b27f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spruce_mat.002
+    second: {fileID: 2100000, guid: d928afbc8caa6924e8e604391ede023a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spruce_mat.004
+    second: {fileID: 2100000, guid: 45a9f014cd505da488828a1147b52317, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spruce_mat.005
+    second: {fileID: 2100000, guid: 4c502e0c21ec7564d94817c914f385fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spruce_mat.006
+    second: {fileID: 2100000, guid: 87762d489d468034399e72d4520073f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spruce_mat.007
+    second: {fileID: 2100000, guid: 721e642b6cd9db04eab517d6f43bf327, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spruce_mat.009
+    second: {fileID: 2100000, guid: 6a872e7279bd04845b2965257ad320d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spruce_mat.010
+    second: {fileID: 2100000, guid: 9bec83400beed8248bf05e4e5faafb68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spruce_mat.011
+    second: {fileID: 2100000, guid: 269d304be4558b44a9ffea67ab60b652, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spruce_mat.012
+    second: {fileID: 2100000, guid: 0c62b26bf261575499e0d3547f38f390, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

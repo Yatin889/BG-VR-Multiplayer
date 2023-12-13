@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d095236d72305f645a71d717903e9d8f, type: 3}
+  m_Name: Moon-Grip-LeftHand
+  m_EditorClassIdentifier: 
+  PoseName: Default
+  Joints:
+    WristJoint:
+      TransformName: hands:b_r_hand
+      LocalPosition: {x: 0, y: 0, z: 0}
+      LocalRotation: {x: 0.5564005, y: -0.018750938, z: 0.76965183, w: 0.3125748}
+    ThumbJoints:
+    - TransformName: hands:b_r_thumb1
+      LocalPosition: {x: -0.029626835, y: 0.04147081, z: -0.020564951}
+      LocalRotation: {x: 0.44202477, y: 0.8139912, z: 0.17168526, w: 0.33549464}
+    - TransformName: hands:b_r_thumb2
+      LocalPosition: {x: 0.03258561, y: 0.0000027154815, z: -0.00000027681938}
+      LocalRotation: {x: -0.07573691, y: 0.030703112, z: -0.3965106, w: 0.9143854}
+    - TransformName: hands:b_r_thumb3
+      LocalPosition: {x: 0.026375083, y: -0.00000313834, z: 0.00000024626075}
+      LocalRotation: {x: 0.046804707, y: -0.08183468, z: 0.22803806, w: 0.96907747}
+    - TransformName: hands:b_r_thumb_ignore
+      LocalPosition: {x: 0.034079235, y: 0.00000027444756, z: 0.00000012232366}
+      LocalRotation: {x: -0.0000000074505757, y: 1e-45, z: 0.0000000060535927, w: 1}
+    IndexJoints:
+    - TransformName: hands:b_r_index1
+      LocalPosition: {x: -0.08707797, y: 0.035099972, z: 0.0068147103}
+      LocalRotation: {x: -0.09468556, y: 0.6895105, z: 0.6832776, w: 0.22077511}
+    - TransformName: hands:b_r_index2
+      LocalPosition: {x: 0.041569814, y: -0.0000055655837, z: 0.000000027939677}
+      LocalRotation: {x: 0.12243524, y: -0.03364363, z: -0.34366727, w: 0.93046796}
+    - TransformName: hands:b_r_index3
+      LocalPosition: {x: 0.022152938, y: -0.00000022278307, z: -0.000000035388048}
+      LocalRotation: {x: -0.01696494, y: 0.023555785, z: -0.13581775, w: 0.9903085}
+    - TransformName: hands:b_r_index_ignore
+      LocalPosition: {x: 0.029121783, y: 0.0000002658625, z: 0.0000010456445}
+      LocalRotation: {x: 0, y: 0, z: 0.0000000033178353, w: 1}
+    MiddleJoints:
+    - TransformName: hands:b_r_middle1
+      LocalPosition: {x: -0.09142202, y: 0.009532635, z: 0.010838787}
+      LocalRotation: {x: -0.15394688, y: 0.6488058, z: 0.72124624, w: 0.18749739}
+    - TransformName: hands:b_r_middle2
+      LocalPosition: {x: 0.045962933, y: -0.000004399568, z: -0.0000011604279}
+      LocalRotation: {x: 0.21858284, y: -0.09811221, z: -0.30472723, w: 0.92181176}
+    - TransformName: hands:b_r_middle3
+      LocalPosition: {x: 0.029590234, y: -0.00000017799228, z: -0.000000063619794}
+      LocalRotation: {x: -0.050201964, y: -0.039809935, z: -0.15215142, w: 0.9862783}
+    - TransformName: hands:b_r_middle_ignore
+      LocalPosition: {x: 0.026469523, y: 0.0000004068423, z: 0.00000019527813}
+      LocalRotation: {x: 0.0000000074505775, y: 1e-45, z: 0.00000003940657, w: 1}
+    RingJoints:
+    - TransformName: hands:b_r_ring1
+      LocalPosition: {x: -0.0893, y: -0.0123, z: 0.0001}
+      LocalRotation: {x: -0.100162454, y: 0.6284878, z: 0.77116877, w: 0.016411541}
+    - TransformName: hands:b_r_ring2
+      LocalPosition: {x: 0.0388, y: 0.0001, z: -0.0008}
+      LocalRotation: {x: -0.04203131, y: -0.012204317, z: -0.45530832, w: 0.88925743}
+    - TransformName: hands:b_r_ring3
+      LocalPosition: {x: 0.025775276, y: -0.0000017369166, z: -0.0000003442401}
+      LocalRotation: {x: -0.0173839, y: -0.027761955, z: -0.0815451, w: 0.9961313}
+    - TransformName: hands:b_r_ring_ignore
+      LocalPosition: {x: 0.024214193, y: -0.00000003789957, z: 0.00000001870374}
+      LocalRotation: {x: 0.0000000037252887, y: -1e-45, z: 0.000000008643834, w: 1}
+    PinkyJoints:
+    - TransformName: hands:b_r_pinky0
+      LocalPosition: {x: -0.031274725, y: -0.019069267, z: -0.011509167}
+      LocalRotation: {x: -0.46882802, y: -0.082201734, z: 0.072371535, w: 0.87647337}
+    - TransformName: hands:b_r_pinky1
+      LocalPosition: {x: -0.05356621, y: -0.0024395068, z: 0.0014644878}
+      LocalRotation: {x: -0.03260855, y: 0.13071693, z: 0.98909354, w: 0.059530057}
+    - TransformName: hands:b_r_pinky2
+      LocalPosition: {x: 0.03335474, y: -0.00000022910535, z: -0.00000030128285}
+      LocalRotation: {x: -0.102385424, y: -0.11776445, z: -0.35523027, w: 0.9216617}
+    - TransformName: hands:b_r_pinky3
+      LocalPosition: {x: 0.017417766, y: -0.000002563931, z: -0.00000184495}
+      LocalRotation: {x: 0.0018364554, y: 0.032505676, z: -0.012960419, w: 0.99938583}
+    - TransformName: hands:b_r_pinky_ignore
+      LocalPosition: {x: 0.01944108, y: 0.00000018051705, z: 0.000000684117}
+      LocalRotation: {x: 1e-45, y: -1e-45, z: -5.529724e-10, w: 1}
+    OtherJoints:
+    - TransformName: gripTrans
+      LocalPosition: {x: -0.0363, y: 0.0237, z: 0.0254}
+      LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+    - TransformName: hands_r_gloves_mat06
+      LocalPosition: {x: 0, y: 0, z: 0}
+      LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+    - TransformName: Golves_low
+      LocalPosition: {x: 0, y: 0, z: 0}
+      LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+    - TransformName: hands:r_hand_world
+      LocalPosition: {x: 0.017749999, y: 0.049009997, z: -0.0717}
+      LocalRotation: {x: 0.7494701, y: 0.5416207, z: -0.15824513, w: -0.34626594}
+    - TransformName: hands:b_r_grip
+      LocalPosition: {x: -0.074412085, y: 0.017376663, z: -0.019983636}
+      LocalRotation: {x: 0.570189, y: 0.016357051, z: 0.8065084, w: -0.15543856}
+    - TransformName: hands:b_r_hand_ignore
+      LocalPosition: {x: -0.13611329, y: 0.00000039665923, z: 0.0000006813971}
+      LocalRotation: {x: 0.22704248, y: 0, z: 0, w: 0.9738849}

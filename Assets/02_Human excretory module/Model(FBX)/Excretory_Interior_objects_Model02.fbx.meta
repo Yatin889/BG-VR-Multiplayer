@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: 09901858ecdce424db1fc444efb26d78
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ArterialSystem_Torso
+    second: {fileID: 2100000, guid: 3680b87a6d48d4d4a85b98af3f21996a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Artery_Vein
+    second: {fileID: 2100000, guid: 69f9ee316f7f21745bd8a5db021c41a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bladder
+    second: {fileID: 2100000, guid: b587ecb25a23b8047a5ecb34fa56ca79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body
+    second: {fileID: 2100000, guid: 1a2089c9eed86744aaeabce67d709154, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kidney_Left
+    second: {fileID: 2100000, guid: 6c04495dc57a8054f982a574c8f0a4c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kidney_Right
+    second: {fileID: 2100000, guid: 2ba00263f37d8024f9dc2772531641c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material-22
+    second: {fileID: 2100000, guid: 2a061eb680c628246b6a6208063d7cf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Poump02
+    second: {fileID: 2100000, guid: 0fc82abfc36155646814a4ea73e8963d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prostate_Uretra
+    second: {fileID: 2100000, guid: 7f154654ad8303044a0ee60459f1fd28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pump01
+    second: {fileID: 2100000, guid: 76222c60f75ccb742be6709a5edbc2f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ureter_Left
+    second: {fileID: 2100000, guid: 69b05abfc5f5112499275f7905c47c06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ureter_Right
+    second: {fileID: 2100000, guid: cce3392b9c471cc488e2208c1bf4e956, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VenousSystem_Torso
+    second: {fileID: 2100000, guid: 56ea02e2741fe9b4abdb3b114fb01443, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blue_glow
+    second: {fileID: 2100000, guid: 0e3a60c9350b9db47b92ca6ba82f6e8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: capillary_vein
+    second: {fileID: 2100000, guid: 899225b2592c255448536af5781a4aa3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pvc_accent
+    second: {fileID: 2100000, guid: 6f1c839cc633e8349b99b49ad79be8e5, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ArterialSystem_Torso_Diffuse
+    second: {fileID: 2800000, guid: 2d11a7f505e4490418489a067f59c506, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ArterialSystem_Torso_Normal
+    second: {fileID: 2800000, guid: 2f7b481426bd43143bb87f28a3da9e68, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ArterialSystem_Torso_Specular
+    second: {fileID: 2800000, guid: e8faaf7cecebcdd479a2179f20b6a015, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bladder_Diffuse
+    second: {fileID: 2800000, guid: 16d0642793ee62c4fa8bb6d5492d7449, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bladder_Normal
+    second: {fileID: 2800000, guid: fe5e6a1d5515c9c49ab2cb25636c50c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bladder_Specular
+    second: {fileID: 2800000, guid: 990c99e4db042fa44a600e24625fdc48, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Body_Diffuse
+    second: {fileID: 2800000, guid: b28f6efa10280cf47903c372f1079d9c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Body_Glossiness
+    second: {fileID: 2800000, guid: 766355b6988ef8840b7a7dfd95e3ab84, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Body_Normal
+    second: {fileID: 2800000, guid: f38064a5fbeef4742901ccd8cf2c7fbf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Kidney_Left_Diffuse
+    second: {fileID: 2800000, guid: 8686bd76ffc993d4eab1f4e4f4da41c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Kidney_Left_Normal
+    second: {fileID: 2800000, guid: 604da531c7e65224b8df6734055a801f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Kidney_Left_Specular
+    second: {fileID: 2800000, guid: 67d6d17ac8e75234dac00597e429166a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Kidney_Right_Diffuse
+    second: {fileID: 2800000, guid: d0ff54711444ec043b54a417f488da5a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Kidney_Right_Glossiness
+    second: {fileID: 2800000, guid: 96baad9e83c1ca5449dd38537b25b2b4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Kidney_Right_Normal
+    second: {fileID: 2800000, guid: 3ca7c0c1abb15cc44b712b8ea3ab6c71, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Kidney_Right_Specular
+    second: {fileID: 2800000, guid: 086c66a09c1886d4d830e28f45160f2e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Podium
+    second: {fileID: 2800000, guid: f6cbf9f711be9b347a8d54fe1d619d79, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Podium_Normal
+    second: {fileID: 2800000, guid: 4244d58c63bc6ce4b9fdf6229ae60c52, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Podium_Rough
+    second: {fileID: 2800000, guid: b98841fdc1670734c9f93b13bb185c52, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Prostate_Uretra_Diffuse
+    second: {fileID: 2800000, guid: b9a68a1307fb4f8409d5828186c39182, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Prostate_Uretra_Glossiness
+    second: {fileID: 2800000, guid: 151d17d1a9c06cc40bcc83668f1cc290, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Prostate_Uretra_Normal
+    second: {fileID: 2800000, guid: 10650b9bbb457d145a4ac628069b15c3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Prostate_Uretra_Specular
+    second: {fileID: 2800000, guid: 45274a83ae3f38f47b4ce6c6f112aaac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pump02
+    second: {fileID: 2800000, guid: f8916deec6f891842a23f36d9386df0b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Urinary_Ureter_Left_Diffuse
+    second: {fileID: 2800000, guid: b391547fc6799504b947fbcb0d8febe0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Urinary_Ureter_Left_Normal
+    second: {fileID: 2800000, guid: b9fb5d9586bcd524ab525a128024fafc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Urinary_Ureter_Left_Specular
+    second: {fileID: 2800000, guid: 112b1afc28cd38047bdc8c28fc440aac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Urinary_Ureter_Right_Diffuse
+    second: {fileID: 2800000, guid: 0546f119f62286a45bfbc2892f590971, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Urinary_Ureter_Right_Glossiness
+    second: {fileID: 2800000, guid: 59cd92618dd0f9849ab324baab64a14b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Urinary_Ureter_Right_Normal
+    second: {fileID: 2800000, guid: 0a2159a41deae1046a68e8e94f9b5ff7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Urinary_Ureter_Right_Specular
+    second: {fileID: 2800000, guid: 9b34bca66fa1390418699b45cd7e5b6f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: VenousSystem_Torso_Diffuse
+    second: {fileID: 2800000, guid: 341a2caece455c343a76a923473167fe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: VenousSystem_Torso_Normal
+    second: {fileID: 2800000, guid: 11c10f05bb7a1f54795e956ffd0e7179, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: VenousSystem_Torso_Specular
+    second: {fileID: 2800000, guid: 4a5e275e74f9f2047ac8af3831e6565c, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

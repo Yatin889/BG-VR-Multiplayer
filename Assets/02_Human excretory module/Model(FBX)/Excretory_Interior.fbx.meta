@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: 6f7f0f208a614a74ca862a7106c37796
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Doom
+    second: {fileID: 2100000, guid: feb0f762d91add2439c9476295a0679b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Excretory System
+    second: {fileID: 2100000, guid: b090236cb1260094d95386ac0f862e19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ExitSign.003
+    second: {fileID: 2100000, guid: 68294b3e503ad3d488c289a0aae4dd48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor
+    second: {fileID: 2100000, guid: 009ae62459638114fbc1066fd22b8cfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Inner_Boundary
+    second: {fileID: 2100000, guid: 9d46ceae0db236843bc19cc783737a51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: e379a94af1f925c4e95b7315d2c6de50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 0339a336ce633d149b2703bcc8cf9f9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: e5923e24dcdbf7b46ac2d76554c0238f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Name
+    second: {fileID: 2100000, guid: c988f96fa6fc52e4d88c90d62d977beb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nephron
+    second: {fileID: 2100000, guid: b22e263409a46424d8817832fa9c10be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pillars
+    second: {fileID: 2100000, guid: 6e8b6df2384ebfa4fbf54004d50da4fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Quiz Steps
+    second: {fileID: 2100000, guid: f01e77bfa49280a41b4d16436352572e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof
+    second: {fileID: 2100000, guid: 741ede60e9574e14da28c1a7e9d8a730, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Urogenital System
+    second: {fileID: 2100000, guid: 2f6841c514daac644aad154bf0052da4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall
+    second: {fileID: 2100000, guid: 9f275ce15b4c15e4fb17c49d78477bf5, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Dome
+    second: {fileID: 2800000, guid: 10fa5e1256fc2484f911f75fa42ee341, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Dome_Normal
+    second: {fileID: 2800000, guid: b36ec53e35607644d9c10dc53bc58d50, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Dome_Rough
+    second: {fileID: 2800000, guid: 0ca3cd17b3cd24e43baafe47d20747ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Excretory System
+    second: {fileID: 2800000, guid: 1a2c573a57fd8fa409ef238e5b10620a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Excretory System Emission
+    second: {fileID: 2800000, guid: 8cd9d2cbdc71aa745a1d1ba0f2bf4783, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ExitSign_BaseColor
+    second: {fileID: 2800000, guid: 9b513002fde4ad54ca3f33d61e1e9fe1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ExitSign_Emission
+    second: {fileID: 2800000, guid: 69e0b67ff4228a8488c9f1b98818221e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Floor
+    second: {fileID: 2800000, guid: c5041e9c5b3e91246844970cbe20f9e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Floor_Normal
+    second: {fileID: 2800000, guid: 324c835116ddde149bfb05317cf77409, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Floor_Rough
+    second: {fileID: 2800000, guid: 1ca5f98ead4ae9a4590716f7abed9a43, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Inner_Boundary
+    second: {fileID: 2800000, guid: 154191a29076f6e428b4e8e90d1a44ee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Inner_Boundary_Normal
+    second: {fileID: 2800000, guid: d8ae7f44ada9ed147944268947c72bb7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Inner_Boundary_Rough
+    second: {fileID: 2800000, guid: bf8cf4e6d815bc24295e84125ce33cc0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nephron
+    second: {fileID: 2800000, guid: 7361c186816235c4794fdbb2e1f8f80f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Nephron Emission
+    second: {fileID: 2800000, guid: a7d82269ca7c9a94798e3d53f4a0c4d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pillars
+    second: {fileID: 2800000, guid: cd266a33706302347a767d6ae54b77a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pillars_Normal
+    second: {fileID: 2800000, guid: 1e43d1066d38167489b60b3e4575fc0e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Pillars_Rough
+    second: {fileID: 2800000, guid: a0624978ff1707d44af7322cbceb798f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Quiz Steps
+    second: {fileID: 2800000, guid: e1af64cd7230e5144a872efbe227d5b9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Quiz Steps_Normal
+    second: {fileID: 2800000, guid: 099d55dc98729d94fa4c65e60bcb10f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Quiz Steps_Rough
+    second: {fileID: 2800000, guid: fbba7e1405a99014594ee4c8c500c4d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Roof
+    second: {fileID: 2800000, guid: 6ad280be4bdb96e4aa9295a6a4897583, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Roof_Normal
+    second: {fileID: 2800000, guid: aad803e4f75f0d342895ace4527a5f48, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Roof_Rough
+    second: {fileID: 2800000, guid: fc3098aaf9fce44439d0ede6a0acb287, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Urogenital System
+    second: {fileID: 2800000, guid: be6e3b0e42d737940a571c12fc1f4a3d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Urogenital System Emission
+    second: {fileID: 2800000, guid: c758ac5f2358f5242aca0239cf1aac15, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wall
+    second: {fileID: 2800000, guid: 928eb17595df41e478266f34ace97f4a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wall.Normal
+    second: {fileID: 2800000, guid: 28eb6e269cd2284439dffea41b7b09bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Wall.Roughpng
+    second: {fileID: 2800000, guid: 1261bb37fbac5eb4988f073b3197c0d0, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
